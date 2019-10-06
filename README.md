@@ -10,6 +10,10 @@ My own curated list of awesome things that I found on the internet (mostly tech 
 
 * [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.md)
 
+## Reactive Programming
+
+* [learn reactive programming](https://learnreactive.com/)
+
 ## Roadmaps
 
 * [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
