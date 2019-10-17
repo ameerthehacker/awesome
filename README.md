@@ -5,6 +5,7 @@ My own curated list of awesome things that I found on the internet (mostly tech 
 ## Design Patterns
 
 * [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Built your own technology](https://github.com/danistefanovic/build-your-own-x)
 
 ## Testing
 
