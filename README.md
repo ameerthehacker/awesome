@@ -22,3 +22,7 @@ My own curated list of awesome things that I found on the internet (mostly tech 
 ## Roadmaps
 
 * [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+## Articles
+
+* [Micro frontends](https://martinfowler.com/articles/micro-frontends.html)
